@@ -1,2 +1,3 @@
 User-agent: *
 Disallow: /library.dinglabs.com/
+Disallow: /library-interviews-zh.dinglabs.com/
